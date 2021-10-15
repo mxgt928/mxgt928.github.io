@@ -1,1 +1,155 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T07:17:16.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" version="15.5.2" etag="i8FuFalPEWemkkrkuJDi" type="github"><diagram id="YSibpG-fcIfnJ86wEvvd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-15T08:23:02.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="7oFNVXCH0RJSBD5b3UXX" version="15.5.2" type="github">
+  <diagram id="YSibpG-fcIfnJ86wEvvd" name="Page-1">
+    <mxGraphModel dx="1577" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-45" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;商品資訊子系統&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="93WC9qO2CIn3MD8DMSmO-1" target="93WC9qO2CIn3MD8DMSmO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-1" value="訪客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-2" value="買家&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="870" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="93WC9qO2CIn3MD8DMSmO-3" target="93WC9qO2CIn3MD8DMSmO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="575" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="93WC9qO2CIn3MD8DMSmO-3" target="93WC9qO2CIn3MD8DMSmO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-3" value="會員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="485" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-10" value="賣家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="870" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-11" value="管理員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="485" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-38" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;會員子系統&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="540" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="100" width="520" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-31" value="1.1會員註冊" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="93WC9qO2CIn3MD8DMSmO-41">
+          <mxGeometry y="47.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-32" value="1.2會員登入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="93WC9qO2CIn3MD8DMSmO-41">
+          <mxGeometry x="100" y="2.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-33" value="1.5會員刪除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="93WC9qO2CIn3MD8DMSmO-41">
+          <mxGeometry x="320" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-34" value="1.3會員資料更改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="93WC9qO2CIn3MD8DMSmO-41">
+          <mxGeometry x="240" y="52.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-37" value="1.4檢視所有會員" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="93WC9qO2CIn3MD8DMSmO-41">
+          <mxGeometry x="420" y="52.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-42" value="2.1搜尋商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="280" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-43" value="2.2瀏覽商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="255" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-44" value="2.3查看商品內容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="320" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-47" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;議價&lt;/font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;子系統&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-48" value="3.1價格調整" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="467.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-49" value="3.2最終價格決定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="420" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-50" value="3.3拒絕當次議價" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="480" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-52" value="3.4議價成立" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="535" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-54" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;訂購商品子系統&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="610" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-55" value="4.1訂購商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="687.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-56" value="4.2刪除訂購商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="640" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-57" value="4.3修改訂購數量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="700" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-58" value="4.4檢視購物車" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="755" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-59" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;結帳子系統&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="830" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-60" value="5.1訂單成立" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="877.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-62" value="5.3貨到付款" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="910" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-65" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;訂單管理子系統&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-66" value="6.1檢視訂單內容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="310" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-67" value="6.2修改訂單內容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="282" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-68" value="6.3刪除訂單" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616" y="338" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-69" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;商品管理子系統&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-70" value="7.1新增商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="480" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-71" value="7.2修改商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="452" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-72" value="7.3刪除商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616" y="508" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-73" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;管理者子系統&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="590" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-74" value="8.1管理者登入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="650" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-75" value="8.2新增管理者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="622" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-76" value="8.3修改管理者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616" y="678" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-77" value="8.4刪除管理者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="735" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-78" value="&lt;font style=&quot;font-size: 11px&quot;&gt;8.5檢視所有管理者&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="785" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="93WC9qO2CIn3MD8DMSmO-80" value="5.2新增訂單資訊" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="860" width="100" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
